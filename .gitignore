@@ -1,0 +1,7 @@
+*.py
+date-????.log
+date-[0-9]
+debug-[a-z].log
+**/logs/
+!important.py
+debug.log
